@@ -3,7 +3,6 @@
 https://github.com/a6216abcd/K-UI/tree/dev
 
 
-[💬 Telegram 交流群](https://t.me/kejikkkcom) | [📺 YouTube 频道：科技KKK](https://www.youtube.com/@%E7%A7%91%E6%8A%80KKK)
 * **🏠 双ISP住宅IP检测**： https://testisp.info 
 ---
 
@@ -11,7 +10,7 @@ https://github.com/a6216abcd/K-UI/tree/dev
 
 # 一键极速部署  
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/a6216abcd/Free-Residential-IP-Proxy-Controller)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/huohuczq/Free-IP-Proxy)
 
 一键极速部署如果报400的错误,就是CF账户风控了，重新注册一个CF新号即可部署成功
 
